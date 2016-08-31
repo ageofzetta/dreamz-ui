@@ -38,3 +38,8 @@ php artisan migrate
 ```
 php db:seed
 ```
+
+Passwords in
+
+[Passwords!](database/seeds/UserTableSeeder.php)
+https://github.com/ageofzetta/dreamz-ui/blob/master/database/seeds/UserTableSeeder.php
